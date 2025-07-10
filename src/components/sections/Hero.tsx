@@ -131,7 +131,7 @@ const Hero: React.FC = () => {
                 <div className="w-[130px] h-[130px] rounded-full border-[8px] border-white dark:border-slate-800 relative">
                   {discordUser?.avatar ? (
                     <img
-                      src={`https://cdn.discordapp.com/avatars/${discordUser.id}/${discordUser.avatar}.png?size=256`}
+                      src={`https://mustafaberkaslan.com.tr/berk.png`}
                       alt="Discord Avatar"
                       className="object-cover w-full h-full rounded-full"
                     />
